@@ -1,0 +1,11 @@
+End TO End ML
+Setup Project with Github
+
+1.Data Ingestion
+2.Data Transformation 
+3.Model Trainer
+4.Model Evaluation
+5.Model Deploymen 
+
+CI/CD Pipelines - Github Actions
+Deployment - AWS    
