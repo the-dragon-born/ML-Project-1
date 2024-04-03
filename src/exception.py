@@ -1,7 +1,7 @@
 #Exception Handling 
 import sys
 import logging 
-from logger import LOG_FILE_PATH  #
+from logger import logging
 
 def error_message_details(error,error_detail:sys):
     _,_,exc_tb = error_detail.exc_info() #This line uses the exc_info() method of the error_detail instance (which is an instance of sys) to get information about the current exception.and extracts the traceback object.
